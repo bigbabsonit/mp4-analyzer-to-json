@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Content Analyzer",
+  "description": "An advanced tool that uses Gemini to provide a highly detailed analysis of uploaded video content, including summaries, key topics, and timestamped moments.",
+  "requestFramePermissions": []
+}
